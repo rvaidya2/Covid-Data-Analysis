@@ -13,4 +13,4 @@ Here's a summary of the key analyses:
 5. Vaccination Analysis: Analyzes total vaccinations and rolling vaccinations by location and date, and calculates the percentage of the population vaccinated.
 6. Data Storage: Creates a view to store data for visualizations.
 
-Link to Tableau Dashboard - https://shorturl.at/anCF6
+Link to Tableau Dashboard - [https://shorturl.at/anCF6](https://public.tableau.com/views/CovidDataAnalysis_17121176432750/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
